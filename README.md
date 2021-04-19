@@ -9,5 +9,8 @@
 [Лекция 3, часть 1](https://github.com/klyshinsky/NLP_VVSU_2021/blob/main/Lecture_20210413_1_Reduce_space.ipynb) Сокращение размерности пространства признаков.  
 [Лекция 3, часть 2](https://github.com/klyshinsky/NLP_VVSU_2021/blob/main/Lecture_20210413_2_Clustering.ipynb) Кластеризация.
 
+[Лекция 4, часть 2](https://github.com/klyshinsky/NLP_VVSU_2021/blob/main/Lecture_20210420_Classification.ipynb) Классификация.
+
+
 
 
