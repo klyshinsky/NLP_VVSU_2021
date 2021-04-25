@@ -11,6 +11,8 @@
 
 [Лекция 4, часть 2](https://github.com/klyshinsky/NLP_VVSU_2021/blob/main/Lecture_20210420_Classification.ipynb) Классификация.
 
+[Лекция 5, часть 2](https://github.com/klyshinsky/NLP_VVSU_2021/blob/main/Lecture_20210427_DecisionTrees.ipynb) Деревья принятия решений.
+
 
 
 
