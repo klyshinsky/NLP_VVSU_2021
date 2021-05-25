@@ -13,6 +13,7 @@
 
 [Лекция 5, часть 2](https://github.com/klyshinsky/NLP_VVSU_2021/blob/main/Lecture_20210427_DecisionTrees.ipynb) Деревья принятия решений.
 
-[Лекция 6](https://github.com/klyshinsky/NLP_VVSU_2021/blob/main/Lecture_20210511-W2V.ipynb) Тематическое моделирование, Word2Vec
+[Лекция 6](https://github.com/klyshinsky/NLP_VVSU_2021/blob/main/Lecture_20210511-W2V.ipynb) Тематическое моделирование, Word2Vec.
 
+[Лекция 7](https://github.com/klyshinsky/NLP_VVSU_2021/blob/main/Lecture_20210524_Neural_Networks_Dense_CNN_RNN.ipynb) Немного про разные виды нейронных сетей.
 
